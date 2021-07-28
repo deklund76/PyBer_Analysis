@@ -6,6 +6,6 @@ This project contains a mock exploratory analysis for a Python based ride-sharin
 
 ## Results
 
-![Pyber-summary-dataframe]https://github.com/deklund76/PyBer_Analysis/blob/main/analysis/Pyber_summary_dataframe.png
+![Pyber-summary-dataframe](https://github.com/deklund76/PyBer_Analysis/blob/main/analysis/Pyber_summary_dataframe.png)
 
-![Total-fare-by-city-type]https://github.com/deklund76/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
+![Total-fare-by-city-type](https://github.com/deklund76/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
